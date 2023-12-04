@@ -5,3 +5,6 @@ author: "Astha Baranwal"
 
 What was the last movie you watched in a theater?\
 My last movie in a theater was Oppenheimer.
+
+Task#2: What did you eat for today\'s lunch?\
+I had Ramen and tofu for today's lunch.
